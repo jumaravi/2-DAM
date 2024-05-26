@@ -11,4 +11,7 @@ public class MetalConstants {
     public static final String PALLADIUM = "palladium";
     public static final String PLATINUM = "platinum";
     public static final String SILVER = "silver";
+    
+    public static final String PROCESS = "Accept";
+    public static final String FORMAT = "application/json";
 }
