@@ -24,12 +24,11 @@ public interface GoldRepository extends JpaRepository<Gold, Integer> {
 	public Gold findByDatetime(final String date);
 	
 	/**
-	 * Busca una serie de registros por divisa y unidad de medida
+	 * Busca una serie de registros por divisa
 	 * 
 	 * @param currency
-	 * @param unit
 	 * @return List<Gold>
 	 */
-	public List<Gold> findByCurrencyAndUnit(final String currency, final String unit);
+	public List<Gold> findByCurrencyOrderByDatetimeAsc(final String currency);
 	
 }

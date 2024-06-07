@@ -26,11 +26,10 @@ public interface CopperRepository extends JpaRepository<Copper, Integer>{
 	public Copper findByDatetime(final String date);
 	
 	/**
-	 * Busca una serie de registros por divisa y unidad de medida
+	 * Busca una serie de registros por divisa
 	 * 
 	 * @param currency
-	 * @param unit
 	 * @return List<Copper>
 	 */
-	public List<Copper> findByCurrencyAndUnit(final String currency, final String unit);
+	public List<Copper> findByCurrencyOrderByDatetimeDesc(final String currency);
 }

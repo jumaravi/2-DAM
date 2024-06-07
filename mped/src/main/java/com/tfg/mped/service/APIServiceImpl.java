@@ -76,7 +76,7 @@ public class APIServiceImpl implements APIServiceI {
 	 * de metales.
 	 */
 	//@Scheduled(cron = "0 0/10 * * 1-5 *")
-	@Scheduled(cron = "0/10 * * * * *")
+	//@Scheduled(cron = "0/10 * * * * *")
 	public void fetchMetalRates() {
 
 		fetchGoldRateByUSD();

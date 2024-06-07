@@ -27,9 +27,8 @@ public interface PlatinumRepository extends JpaRepository<Platinum, Integer> {
 	 * Busca una serie de registros por divisa y unidad de medida
 	 * 
 	 * @param currency
-	 * @param unit
 	 * @return List<Platinum>
 	 */
-	public List<Platinum> findByCurrencyAndUnit(final String currency, final String unit);
+	public List<Platinum> findByCurrencyOrderByDatetimeDesc(final String currency);
 	
 }

@@ -7,8 +7,10 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
+import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 /**
  * Tabla del la Plata
@@ -20,6 +22,8 @@ import lombok.Data;
 @Table(name = "T_SILVER")
 @Data
 @Builder
+@NoArgsConstructor
+@AllArgsConstructor
 public class Silver implements Serializable {
 
 	/** Serial Version */
@@ -37,6 +41,10 @@ public class Silver implements Serializable {
 	/** Precio de apertura */
 	@Column(name = "C_OPENPRICE", nullable = false)
 	private Double openPrice;
+	
+	/** Precio de apertura */
+	@Column(name = "C_CLOSEPRICE", nullable = false)
+	private Double closePrice;
 
 	/** Precio maximo */
 	@Column(name = "C_HIGHPRICE", nullable = false)
