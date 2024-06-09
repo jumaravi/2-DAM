@@ -4,6 +4,12 @@ import java.util.List;
 
 import com.tfg.mped.persistence.Palladium;
 
+/**
+ * Servicio de extracción de datos del oro
+ * 
+ * @author jumaravi
+ */
+
 public interface PalladiumServiceI {
 	/**
 	 * Extracción de datos en funcion de la temporalidad

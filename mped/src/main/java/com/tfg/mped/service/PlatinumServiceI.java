@@ -4,6 +4,12 @@ import java.util.List;
 
 import com.tfg.mped.persistence.Platinum;
 
+/**
+ * Servicio de extracción de datos del oro
+ * 
+ * @author jumaravi
+ */
+
 public interface PlatinumServiceI {
 	/**
 	 * Extracción de datos en funcion de la temporalidad

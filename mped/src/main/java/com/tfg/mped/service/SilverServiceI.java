@@ -4,6 +4,12 @@ import java.util.List;
 
 import com.tfg.mped.persistence.Silver;
 
+/**
+ * Servicio de extracción de datos del oro
+ * 
+ * @author jumaravi
+ */
+
 public interface SilverServiceI {
 	
 	/**

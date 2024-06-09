@@ -25,11 +25,11 @@ public interface PalladiumRepository extends JpaRepository<Palladium, Integer> {
 	public Palladium findByDatetime(final String date);
 	
 	/**
-	 * Busca una serie de registros por divisa y unidad de medida
+	 * Busca una serie de registros segun divisa
 	 * 
 	 * @param currency
 	 * @return List<Palladium>
 	 */
-	public List<Palladium> findByCurrencyOrderByDatetimeDesc(final String currency);
+	public List<Palladium> findByCurrencyOrderByDatetimeAsc(final String currency);
 	
 }

@@ -42,7 +42,7 @@ public class Platinum implements Serializable {
 	@Column(name = "C_OPENPRICE", nullable = false)
 	private Double openPrice;
 	
-	/** Precio de apertura */
+	/** Precio de cierre */
 	@Column(name = "C_CLOSEPRICE", nullable = false)
 	private Double closePrice;
 

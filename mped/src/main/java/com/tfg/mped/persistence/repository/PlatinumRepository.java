@@ -24,11 +24,11 @@ public interface PlatinumRepository extends JpaRepository<Platinum, Integer> {
 	public Platinum findByDatetime(final String date);
 	
 	/**
-	 * Busca una serie de registros por divisa y unidad de medida
+	 * Busca una serie de registros segun divisa
 	 * 
 	 * @param currency
 	 * @return List<Platinum>
 	 */
-	public List<Platinum> findByCurrencyOrderByDatetimeDesc(final String currency);
+	public List<Platinum> findByCurrencyOrderByDatetimeAsc(final String currency);
 	
 }

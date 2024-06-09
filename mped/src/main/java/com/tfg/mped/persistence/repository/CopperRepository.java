@@ -6,7 +6,6 @@ import org.springframework.stereotype.Repository;
 import com.tfg.mped.persistence.Copper;
 
 
-
 /**
  * Repositorio del cobre
  * 
@@ -26,10 +25,10 @@ public interface CopperRepository extends JpaRepository<Copper, Integer>{
 	public Copper findByDatetime(final String date);
 	
 	/**
-	 * Busca una serie de registros por divisa
+	 * Busca una serie de registros segun divisa
 	 * 
 	 * @param currency
 	 * @return List<Copper>
 	 */
-	public List<Copper> findByCurrencyOrderByDatetimeDesc(final String currency);
+	public List<Copper> findByCurrencyOrderByDatetimeAsc(final String currency);
 }

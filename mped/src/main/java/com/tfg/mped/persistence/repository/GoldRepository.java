@@ -24,7 +24,7 @@ public interface GoldRepository extends JpaRepository<Gold, Integer> {
 	public Gold findByDatetime(final String date);
 	
 	/**
-	 * Busca una serie de registros por divisa
+	 * Busca una serie de registros segun divisa
 	 * 
 	 * @param currency
 	 * @return List<Gold>

@@ -31,6 +31,6 @@ public interface SilverRepository extends JpaRepository<Silver, Integer> {
 	 * @param currency
 	 * @return List<Silver>
 	 */
-	public List<Silver> findByCurrencyOrderByDatetimeDesc(final String currency);
+	public List<Silver> findByCurrencyOrderByDatetimeAsc(final String currency);
 	
 }

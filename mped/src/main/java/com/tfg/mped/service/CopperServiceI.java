@@ -3,6 +3,11 @@ package com.tfg.mped.service;
 import java.util.List;
 import com.tfg.mped.persistence.Copper;
 
+/**
+ * Servicio de extracción de datos del oro
+ * 
+ * @author jumaravi
+ */
 
 public interface CopperServiceI {
 	/**
