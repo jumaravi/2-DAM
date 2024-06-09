@@ -203,10 +203,10 @@ public class PalladiumServiceImpl implements PalladiumServiceI {
 					palladiumh4.setUnit(palladiumDataArray.getUnit());
 
 					if (palladiumh4.getHighPrice() == null) {
-						palladiumh4.setHighPrice(palladiumh4.getHighPrice());
+						palladiumh4.setHighPrice(palladiumDataArray.getHighPrice());
 					}
 					if (palladiumh4.getLowPrice() == null) {
-						palladiumh4.setLowPrice(palladiumh4.getLowPrice());
+						palladiumh4.setLowPrice(palladiumDataArray.getLowPrice());
 					}
 
 					if (palladiumDataArray.getHighPrice() > palladiumh4.getHighPrice()) {

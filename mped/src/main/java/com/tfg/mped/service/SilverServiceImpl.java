@@ -203,10 +203,10 @@ public class SilverServiceImpl implements SilverServiceI {
 					silverh4.setUnit(silverDataArray.getUnit());
 
 					if (silverh4.getHighPrice() == null) {
-						silverh4.setHighPrice(silverh4.getHighPrice());
+						silverh4.setHighPrice(silverDataArray.getHighPrice());
 					}
 					if (silverh4.getLowPrice() == null) {
-						silverh4.setLowPrice(silverh4.getLowPrice());
+						silverh4.setLowPrice(silverDataArray.getLowPrice());
 					}
 
 					if (silverDataArray.getHighPrice() > silverh4.getHighPrice()) {

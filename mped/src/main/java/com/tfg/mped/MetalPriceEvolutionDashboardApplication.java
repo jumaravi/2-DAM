@@ -18,6 +18,4 @@ public class MetalPriceEvolutionDashboardApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MetalPriceEvolutionDashboardApplication.class, args);
 	}
-
-	
 }

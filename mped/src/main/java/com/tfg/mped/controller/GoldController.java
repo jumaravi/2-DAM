@@ -1,5 +1,6 @@
 package com.tfg.mped.controller;
 
+
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -35,6 +36,7 @@ public class GoldController {
 	 * @param currency
 	 * @return ResponseEntity
 	 */
+
 	@GetMapping("/goldh1/{currency}")
 	public ResponseEntity<List<Gold>> goldTimeSerieH1(@PathVariable String currency) {
 

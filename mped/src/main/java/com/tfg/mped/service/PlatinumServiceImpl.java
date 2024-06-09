@@ -206,10 +206,10 @@ public class PlatinumServiceImpl implements PlatinumServiceI {
 					platinumh4.setUnit(platinumDataArray.getUnit());
 
 					if (platinumh4.getHighPrice() == null) {
-						platinumh4.setHighPrice(platinumh4.getHighPrice());
+						platinumh4.setHighPrice(platinumDataArray.getHighPrice());
 					}
 					if (platinumh4.getLowPrice() == null) {
-						platinumh4.setLowPrice(platinumh4.getLowPrice());
+						platinumh4.setLowPrice(platinumDataArray.getLowPrice());
 					}
 
 					if (platinumDataArray.getHighPrice() > platinumh4.getHighPrice()) {

@@ -198,10 +198,10 @@ public class GoldServiceImpl implements GoldServiceI {
 					goldh4.setUnit(goldDataArray.getUnit());
 
 					if (goldh4.getHighPrice() == null) {
-						goldh4.setHighPrice(goldh4.getHighPrice());
+						goldh4.setHighPrice(goldDataArray.getHighPrice());
 					}
 					if (goldh4.getLowPrice() == null) {
-						goldh4.setLowPrice(goldh4.getLowPrice());
+						goldh4.setLowPrice(goldDataArray.getLowPrice());
 					}
 
 					if (goldDataArray.getHighPrice() > goldh4.getHighPrice()) {

@@ -197,10 +197,10 @@ public class CopperServiceImpl implements CopperServiceI {
 					copperh4.setUnit(copperDataArray.getUnit());
 
 					if (copperh4.getHighPrice() == null) {
-						copperh4.setHighPrice(copperh4.getHighPrice());
+						copperh4.setHighPrice(copperDataArray.getHighPrice());
 					}
 					if (copperh4.getLowPrice() == null) {
-						copperh4.setLowPrice(copperh4.getLowPrice());
+						copperh4.setLowPrice(copperDataArray.getLowPrice());
 					}
 
 					if (copperDataArray.getHighPrice() > copperh4.getHighPrice()) {
