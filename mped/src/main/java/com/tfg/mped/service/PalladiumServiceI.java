@@ -24,6 +24,5 @@ public interface PalladiumServiceI {
 		public List<Palladium> loadTimeSerieD (final String currency);
 		
 		public List<Palladium> loadTimeSerieS (final String currency);
-		
-		public List<Palladium> loadTimeSerieM (final String currency);
+
 }

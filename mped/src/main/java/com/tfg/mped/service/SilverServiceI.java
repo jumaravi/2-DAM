@@ -25,6 +25,4 @@ public interface SilverServiceI {
 	public List<Silver> loadTimeSerieD(final String currency);
 
 	public List<Silver> loadTimeSerieS(final String currency);
-
-	public List<Silver> loadTimeSerieM(final String currency);
 }

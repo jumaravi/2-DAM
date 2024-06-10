@@ -84,18 +84,4 @@ public class CopperController {
 
 		return new ResponseEntity<>(dataList, HttpStatus.OK);
 	}
-
-	/**
-	 * Metodo para devolver la cotizacion del cobre en vela mensual segun divisa
-	 * 
-	 * @param currency
-	 * @return ResponseEntity
-	 */
-	@GetMapping("/copperM/{currency}")
-	public ResponseEntity<List<Copper>> copperTimeSerieM(@PathVariable String currency) {
-
-		List<Copper> dataList = cServ.loadTimeSerieM(currency);
-
-		return new ResponseEntity<>(dataList, HttpStatus.OK);
-	}
 }

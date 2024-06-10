@@ -23,6 +23,5 @@ public interface CopperServiceI {
 		public List<Copper> loadTimeSerieD (final String currency);
 		
 		public List<Copper> loadTimeSerieS (final String currency);
-		
-		public List<Copper> loadTimeSerieM (final String currency);
+
 }

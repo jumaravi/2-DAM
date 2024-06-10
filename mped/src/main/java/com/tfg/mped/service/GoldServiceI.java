@@ -24,9 +24,6 @@ public interface GoldServiceI {
 	public List<Gold> loadTimeSerieD(final String currency);
 
 	public List<Gold> loadTimeSerieS(final String currency);
-
-	public List<Gold> loadTimeSerieM(final String currency);
-
 	
 	/**
 	 * Extracción de datos historicos en funcion de la temporalidad
@@ -37,6 +34,4 @@ public interface GoldServiceI {
 	public List<Gold> loadHistoricalTimeSerieD(final String currency);
 
 	public List<Gold> loadHistoricalTimeSerieS(final String currency);
-
-	public List<Gold> loadHistoricalTimeSerieM(final String currency);
 }

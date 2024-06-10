@@ -85,18 +85,4 @@ public class SilverController {
 
 		return new ResponseEntity<>(dataList, HttpStatus.OK);
 	}
-
-	/**
-	 * Metodo para devolver la cotizacion de la plata en vela mensual segun divisa
-	 * 
-	 * @param currency
-	 * @return ResponseEntity
-	 */
-	@GetMapping("/silverM/{currency}")
-	public ResponseEntity<List<Silver>> silverTimeSerieM(@PathVariable String currency) {
-
-		List<Silver> dataList = sServ.loadTimeSerieM(currency);
-
-		return new ResponseEntity<>(dataList, HttpStatus.OK);
-	}
 }

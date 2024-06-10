@@ -481,11 +481,4 @@ public class CopperServiceImpl implements CopperServiceI {
 		// Resultado del agrupamiento de datos en una semana
 		return timeSerieS;
 	}
-
-	@Override
-	public List<Copper> loadTimeSerieM(String currency) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
 }

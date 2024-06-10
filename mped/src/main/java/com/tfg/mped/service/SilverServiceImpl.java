@@ -487,11 +487,4 @@ public class SilverServiceImpl implements SilverServiceI {
 		// Resultado del agrupamiento de datos en una semana
 		return timeSerieS;
 	}
-
-	@Override
-	public List<Silver> loadTimeSerieM(String currency) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
 }

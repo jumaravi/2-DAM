@@ -490,11 +490,4 @@ public class PlatinumServiceImpl implements PlatinumServiceI {
 		// Resultado del agrupamiento de datos en una semana
 		return timeSerieS;
 	}
-
-	@Override
-	public List<Platinum> loadTimeSerieM(String currency) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
 }

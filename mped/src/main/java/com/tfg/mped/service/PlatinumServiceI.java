@@ -24,6 +24,4 @@ public interface PlatinumServiceI {
 		public List<Platinum> loadTimeSerieD (final String currency);
 		
 		public List<Platinum> loadTimeSerieS (final String currency);
-		
-		public List<Platinum> loadTimeSerieM (final String currency);
 }

@@ -84,18 +84,4 @@ public class PalladiumController {
 
 		return new ResponseEntity<>(dataList, HttpStatus.OK);
 	}
-
-	/**
-	 * Metodo para devolver la cotizacion del paladio en vela mensual segun divisa
-	 * 
-	 * @param currency
-	 * @return ResponseEntity
-	 */
-	@GetMapping("/palladiumM/{currency}")
-	public ResponseEntity<List<Palladium>> palladiumTimeSerieM(@PathVariable String currency) {
-
-		List<Palladium> dataList = plServ.loadTimeSerieM(currency);
-
-		return new ResponseEntity<>(dataList, HttpStatus.OK);
-	}
 }

@@ -87,17 +87,4 @@ public class GoldController {
 		return new ResponseEntity<>(dataList, HttpStatus.OK);
 	}
 
-	/**
-	 * Metodo para devolver la cotizacion del oro en vela mensual segun divisa
-	 * 
-	 * @param currency
-	 * @return ResponseEntity
-	 */
-	@GetMapping("/goldM/{currency}")
-	public ResponseEntity<List<Gold>> goldTimeSerieM(@PathVariable String currency) {
-
-		List<Gold> dataList = gServ.loadTimeSerieM(currency);
-
-		return new ResponseEntity<>(dataList, HttpStatus.OK);
-	}
 }

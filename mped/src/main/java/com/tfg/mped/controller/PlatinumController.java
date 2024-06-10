@@ -84,18 +84,4 @@ public class PlatinumController {
 
 		return new ResponseEntity<>(dataList, HttpStatus.OK);
 	}
-
-	/**
-	 * Metodo para devolver la cotizacion del platino en vela mensual segun divisa
-	 * 
-	 * @param currency
-	 * @return ResponseEntity
-	 */
-	@GetMapping("/platinumM/{currency}")
-	public ResponseEntity<List<Platinum>> platinumTimeSerieM(@PathVariable String currency) {
-
-		List<Platinum> dataList = ptServ.loadTimeSerieM(currency);
-
-		return new ResponseEntity<>(dataList, HttpStatus.OK);
-	}
 }
