@@ -1,19 +1,12 @@
 package com.tfg.mped.service;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.time.DayOfWeek;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-import java.time.temporal.TemporalAdjusters;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
-import java.util.Date;
 import java.util.List;
-import java.util.Locale;
-import java.util.TimeZone;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import com.tfg.mped.persistence.Gold;
@@ -92,6 +85,7 @@ public class GoldServiceImpl implements GoldServiceI {
 					goldh1.setOpenPrice(goldDataArray.getOpenPrice());
 					goldh1.setCurrency(goldDataArray.getCurrency());
 					goldh1.setUnit(goldDataArray.getUnit());
+					goldh1.setClosePrice(goldDataArray.getOpenPrice());
 
 					if (goldh1.getHighPrice() == null) {
 						goldh1.setHighPrice(goldDataArray.getHighPrice());
@@ -111,6 +105,8 @@ public class GoldServiceImpl implements GoldServiceI {
 					// Cambiar el valor de isFirstIteration a falso después de la primera iteración
 					isFirstIteration = false;
 				}
+
+				goldh1.setClosePrice(goldDataArray.getOpenPrice());
 
 				if (goldDataArray.getHighPrice() > goldh1.getHighPrice()) {
 					goldh1.setHighPrice(goldDataArray.getHighPrice());
@@ -203,6 +199,7 @@ public class GoldServiceImpl implements GoldServiceI {
 					goldh4.setOpenPrice(goldDataArray.getOpenPrice());
 					goldh4.setCurrency(goldDataArray.getCurrency());
 					goldh4.setUnit(goldDataArray.getUnit());
+					goldh4.setClosePrice(goldDataArray.getOpenPrice());
 
 					if (goldh4.getHighPrice() == null) {
 						goldh4.setHighPrice(goldDataArray.getHighPrice());
@@ -222,6 +219,8 @@ public class GoldServiceImpl implements GoldServiceI {
 					// Cambiar el valor de isFirstIteration a falso después de la primera iteración
 					isFirstIteration = false;
 				}
+
+				goldh4.setClosePrice(goldDataArray.getOpenPrice());
 
 				if (goldDataArray.getHighPrice() > goldh4.getHighPrice()) {
 					goldh4.setHighPrice(goldDataArray.getHighPrice());
@@ -307,26 +306,12 @@ public class GoldServiceImpl implements GoldServiceI {
 				// Realizar acciones específicas solo durante la primera iteración
 				if (isFirstIteration) {
 
-//					String defaultDate = goldDataArray.getDatetime();
-//					SimpleDateFormat defaultFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss.SSS'Z'", Locale.US);
-//					defaultFormat.setTimeZone(TimeZone.getTimeZone("UTC"));
-//
-//					// Convertir la fecha al formato deseado
-//					SimpleDateFormat okFormat = new SimpleDateFormat("dd.MM.yyyy", Locale.US);
-//					try {
-//					    Date date = defaultFormat.parse(defaultDate);
-//					    String newDate = okFormat.format(date);
-//					    goldD.setDatetime(newDate);
-//					} catch (ParseException e) {
-//					    // Manejar la excepción, por ejemplo, imprimir un mensaje de error
-//					    System.out.println("Error al parsear la fecha: " + e.getMessage());
-//					}
-					
 					// adjudicación precio apertura
 					goldD.setDatetime(goldDataArray.getDatetime());
 					goldD.setOpenPrice(goldDataArray.getOpenPrice());
 					goldD.setCurrency(goldDataArray.getCurrency());
 					goldD.setUnit(goldDataArray.getUnit());
+					goldD.setClosePrice(goldDataArray.getOpenPrice());
 
 					if (goldD.getHighPrice() == null) {
 						goldD.setHighPrice(goldDataArray.getHighPrice());
@@ -346,6 +331,8 @@ public class GoldServiceImpl implements GoldServiceI {
 					// Cambiar el valor de isFirstIteration a falso después de la primera iteración
 					isFirstIteration = false;
 				}
+
+				goldD.setClosePrice(goldDataArray.getOpenPrice());
 
 				if (goldDataArray.getHighPrice() > goldD.getHighPrice()) {
 					goldD.setHighPrice(goldDataArray.getHighPrice());
@@ -445,6 +432,7 @@ public class GoldServiceImpl implements GoldServiceI {
 					goldS.setOpenPrice(goldDataArray.getOpenPrice());
 					goldS.setCurrency(goldDataArray.getCurrency());
 					goldS.setUnit(goldDataArray.getUnit());
+					goldS.setClosePrice(goldDataArray.getOpenPrice());
 
 					if (goldS.getHighPrice() == null) {
 						goldS.setHighPrice(goldDataArray.getHighPrice());
@@ -464,6 +452,8 @@ public class GoldServiceImpl implements GoldServiceI {
 					// Cambiar el valor de isFirstIteration a falso después de la primera iteración
 					isFirstIteration = false;
 				}
+
+				goldS.setClosePrice(goldDataArray.getOpenPrice());
 
 				if (goldDataArray.getHighPrice() > goldS.getHighPrice()) {
 					goldS.setHighPrice(goldDataArray.getHighPrice());
@@ -504,22 +494,4 @@ public class GoldServiceImpl implements GoldServiceI {
 		// Resultado del agrupamiento de datos en una semana
 		return timeSerieS;
 	}
-
-	
-
-	@Override
-	public List<Gold> loadHistoricalTimeSerieD(String currency) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	@Override
-	public List<Gold> loadHistoricalTimeSerieS(String currency) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-
-
 }
-

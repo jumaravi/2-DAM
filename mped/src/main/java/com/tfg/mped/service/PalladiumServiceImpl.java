@@ -90,7 +90,8 @@ public class PalladiumServiceImpl implements PalladiumServiceI {
 					palladiumh1.setOpenPrice(palladiumDataArray.getOpenPrice());
 					palladiumh1.setCurrency(palladiumDataArray.getCurrency());
 					palladiumh1.setUnit(palladiumDataArray.getUnit());
-
+					palladiumh1.setClosePrice(palladiumDataArray.getOpenPrice());
+					
 					if (palladiumh1.getHighPrice() == null) {
 						palladiumh1.setHighPrice(palladiumDataArray.getHighPrice());
 					}
@@ -109,6 +110,8 @@ public class PalladiumServiceImpl implements PalladiumServiceI {
 					// Cambiar el valor de isFirstIteration a falso después de la primera iteración
 					isFirstIteration = false;
 				}
+				
+				palladiumh1.setClosePrice(palladiumDataArray.getOpenPrice());
 
 				if (palladiumDataArray.getHighPrice() > palladiumh1.getHighPrice()) {
 					palladiumh1.setHighPrice(palladiumDataArray.getHighPrice());
@@ -201,7 +204,8 @@ public class PalladiumServiceImpl implements PalladiumServiceI {
 					palladiumh4.setOpenPrice(palladiumDataArray.getOpenPrice());
 					palladiumh4.setCurrency(palladiumDataArray.getCurrency());
 					palladiumh4.setUnit(palladiumDataArray.getUnit());
-
+					palladiumh4.setClosePrice(palladiumDataArray.getOpenPrice());
+					
 					if (palladiumh4.getHighPrice() == null) {
 						palladiumh4.setHighPrice(palladiumDataArray.getHighPrice());
 					}
@@ -221,6 +225,8 @@ public class PalladiumServiceImpl implements PalladiumServiceI {
 					isFirstIteration = false;
 				}
 
+				palladiumh4.setClosePrice(palladiumDataArray.getOpenPrice());
+				
 				if (palladiumDataArray.getHighPrice() > palladiumh4.getHighPrice()) {
 					palladiumh4.setHighPrice(palladiumDataArray.getHighPrice());
 				}
@@ -310,7 +316,8 @@ public class PalladiumServiceImpl implements PalladiumServiceI {
 					palladiumD.setOpenPrice(palladiumDataArray.getOpenPrice());
 					palladiumD.setCurrency(palladiumDataArray.getCurrency());
 					palladiumD.setUnit(palladiumDataArray.getUnit());
-
+					palladiumD.setClosePrice(palladiumDataArray.getOpenPrice());
+					
 					if (palladiumD.getHighPrice() == null) {
 						palladiumD.setHighPrice(palladiumDataArray.getHighPrice());
 					}
@@ -329,6 +336,8 @@ public class PalladiumServiceImpl implements PalladiumServiceI {
 					// Cambiar el valor de isFirstIteration a falso después de la primera iteración
 					isFirstIteration = false;
 				}
+				
+				palladiumD.setClosePrice(palladiumDataArray.getOpenPrice());
 
 				if (palladiumDataArray.getHighPrice() > palladiumD.getHighPrice()) {
 					palladiumD.setHighPrice(palladiumDataArray.getHighPrice());
@@ -428,6 +437,7 @@ public class PalladiumServiceImpl implements PalladiumServiceI {
 					palladiumS.setOpenPrice(palladiumDataArray.getOpenPrice());
 					palladiumS.setCurrency(palladiumDataArray.getCurrency());
 					palladiumS.setUnit(palladiumDataArray.getUnit());
+					palladiumS.setClosePrice(palladiumDataArray.getOpenPrice());
 
 					if (palladiumS.getHighPrice() == null) {
 						palladiumS.setHighPrice(palladiumDataArray.getHighPrice());
@@ -447,6 +457,8 @@ public class PalladiumServiceImpl implements PalladiumServiceI {
 					// Cambiar el valor de isFirstIteration a falso después de la primera iteración
 					isFirstIteration = false;
 				}
+				
+				palladiumS.setClosePrice(palladiumDataArray.getOpenPrice());
 
 				if (palladiumDataArray.getHighPrice() > palladiumS.getHighPrice()) {
 					palladiumS.setHighPrice(palladiumDataArray.getHighPrice());

@@ -85,6 +85,7 @@ public class CopperServiceImpl implements CopperServiceI {
 					copperh1.setOpenPrice(copperDataArray.getOpenPrice());
 					copperh1.setCurrency(copperDataArray.getCurrency());
 					copperh1.setUnit(copperDataArray.getUnit());
+					copperh1.setClosePrice(copperDataArray.getOpenPrice());
 
 					if (copperh1.getHighPrice() == null) {
 						copperh1.setHighPrice(copperDataArray.getHighPrice());
@@ -112,7 +113,8 @@ public class CopperServiceImpl implements CopperServiceI {
 				if (copperDataArray.getLowPrice() < copperh1.getLowPrice()) {
 					copperh1.setLowPrice(copperDataArray.getLowPrice());
 				}
-
+				
+				copperh1.setClosePrice(copperDataArray.getOpenPrice());
 				// Realizar acciones específicas para la última iteración
 				if (in == index + 6 || in == copperList.size() - 1) {
 
@@ -195,6 +197,7 @@ public class CopperServiceImpl implements CopperServiceI {
 					copperh4.setOpenPrice(copperDataArray.getOpenPrice());
 					copperh4.setCurrency(copperDataArray.getCurrency());
 					copperh4.setUnit(copperDataArray.getUnit());
+					copperh4.setClosePrice(copperDataArray.getOpenPrice());
 
 					if (copperh4.getHighPrice() == null) {
 						copperh4.setHighPrice(copperDataArray.getHighPrice());
@@ -215,6 +218,8 @@ public class CopperServiceImpl implements CopperServiceI {
 					isFirstIteration = false;
 				}
 
+				copperh4.setClosePrice(copperDataArray.getOpenPrice());
+				
 				if (copperDataArray.getHighPrice() > copperh4.getHighPrice()) {
 					copperh4.setHighPrice(copperDataArray.getHighPrice());
 				}
@@ -304,7 +309,8 @@ public class CopperServiceImpl implements CopperServiceI {
 					copperD.setOpenPrice(copperDataArray.getOpenPrice());
 					copperD.setCurrency(copperDataArray.getCurrency());
 					copperD.setUnit(copperDataArray.getUnit());
-
+					copperD.setClosePrice(copperDataArray.getOpenPrice());
+					
 					if (copperD.getHighPrice() == null) {
 						copperD.setHighPrice(copperDataArray.getHighPrice());
 					}
@@ -324,6 +330,8 @@ public class CopperServiceImpl implements CopperServiceI {
 					isFirstIteration = false;
 				}
 
+				copperD.setClosePrice(copperDataArray.getOpenPrice());
+				
 				if (copperDataArray.getHighPrice() > copperD.getHighPrice()) {
 					copperD.setHighPrice(copperDataArray.getHighPrice());
 				}
@@ -422,7 +430,8 @@ public class CopperServiceImpl implements CopperServiceI {
 					copperS.setOpenPrice(copperDataArray.getOpenPrice());
 					copperS.setCurrency(copperDataArray.getCurrency());
 					copperS.setUnit(copperDataArray.getUnit());
-
+					copperS.setClosePrice(copperDataArray.getOpenPrice());
+					
 					if (copperS.getHighPrice() == null) {
 						copperS.setHighPrice(copperDataArray.getHighPrice());
 					}
@@ -442,6 +451,8 @@ public class CopperServiceImpl implements CopperServiceI {
 					isFirstIteration = false;
 				}
 
+				copperS.setClosePrice(copperDataArray.getOpenPrice());
+				
 				if (copperDataArray.getHighPrice() > copperS.getHighPrice()) {
 					copperS.setHighPrice(copperDataArray.getHighPrice());
 				}

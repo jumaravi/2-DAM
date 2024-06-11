@@ -75,8 +75,7 @@ public class APIServiceImpl implements APIServiceI {
 	 * Método que arranca el proceso de automatización de conexiones para cotización
 	 * de metales.
 	 */
-	//@Scheduled(cron = "0 0/10 * * 1-5 *")
-	//@Scheduled(cron = "0/10 * * * * *")
+	@Scheduled(cron = "0 0/10 * * 1-5 *")
 	public void fetchMetalRates() {
 
 		fetchGoldRateByUSD();
@@ -85,11 +84,12 @@ public class APIServiceImpl implements APIServiceI {
 		fetchPlatinumRateByUSD();
 		fetchSilverRateByUSD();
 
-		fetchGoldRateByEUR();
-		fetchCopperRateByEUR();
-		fetchPalladiumRateByEUR();
-		fetchPlatinumRateByEUR();
-		fetchSilverRateByEUR();
+		//Está comentado porque cada peticion cuesta dinero a la API metals.DEV
+//		fetchGoldRateByEUR();
+//		fetchCopperRateByEUR();
+//		fetchPalladiumRateByEUR();
+//		fetchPlatinumRateByEUR();
+//		fetchSilverRateByEUR();
 	}
 
 	@Override
@@ -547,15 +547,16 @@ public class APIServiceImpl implements APIServiceI {
 		Double lowPrice = jsonObject.getAsJsonObject("rate").has("low")
 				? jsonObject.getAsJsonObject("rate").get("low").getAsDouble()
 				: null;
+		Double closePrice= 0.0;
 
 		// LOG PARA LAS VARIABLES
 		System.out.println("Timestamp: " + datetime + " Currency: " + currency + " Unit: " + unit + " Metal: " + metal
-				+ " Openprice: " + openPrice + " highPrice: " + highPrice + " lowPrice: " + lowPrice);
+				+ " Openprice: " + openPrice + " highPrice: " + highPrice + " lowPrice: " + lowPrice + "closePrice: " + closePrice);
 
 		// Verificación de campos
 		if (datetime != null && currency != null && unit != null && metal != null && openPrice != null
 				&& highPrice != null && lowPrice != null) {
-			addPriceQuote(datetime, currency, unit, metal, openPrice, highPrice, lowPrice);
+			addPriceQuote(datetime, currency, unit, metal, openPrice, highPrice, lowPrice, closePrice);
 		} else {
 
 			// LOG DE ERROR. ALGUN CAMPO ES NULO
@@ -565,7 +566,7 @@ public class APIServiceImpl implements APIServiceI {
 
 	@Override
 	public void addPriceQuote(final String datetime, final String currency, final String unit, final String metal,
-			final Double openPrice, final Double highPrice, final Double lowPrice) {
+			final Double openPrice, final Double highPrice, final Double lowPrice, final Double closePrice) {
 
 		LocalTime horaActual = LocalTime.now();
 		DateTimeFormatter formatter = DateTimeFormatter.ofPattern("HH:mm:ss");
@@ -583,7 +584,7 @@ public class APIServiceImpl implements APIServiceI {
 
 				// Construcción objeto con diseño builder.
 				Gold gold = Gold.builder().datetime(datetime).openPrice(openPrice).highPrice(highPrice)
-						.lowPrice(lowPrice).currency(currency).unit(unit).build();
+						.lowPrice(lowPrice).currency(currency).unit(unit).closePrice(closePrice).build();
 				// log para mostrar los datos del objeto + hora del sistema
 				gRepo.save(gold);
 				// LOG INSERCCION EXITOSA
@@ -592,7 +593,7 @@ public class APIServiceImpl implements APIServiceI {
 			case MetalConstants.SILVER:
 
 				Silver silver = Silver.builder().datetime(datetime).openPrice(openPrice).highPrice(highPrice)
-						.lowPrice(lowPrice).currency(currency).unit(unit).build();
+						.lowPrice(lowPrice).currency(currency).unit(unit).closePrice(closePrice).build();
 				// log para mostrar los datos del objeto + hora del sistema
 				sRepo.save(silver);
 				// LOG INSERCCION EXITOSA
@@ -601,7 +602,7 @@ public class APIServiceImpl implements APIServiceI {
 			case MetalConstants.COPPER:
 
 				Copper copper = Copper.builder().datetime(datetime).openPrice(openPrice).highPrice(highPrice)
-						.lowPrice(lowPrice).currency(currency).unit(unit).build();
+						.lowPrice(lowPrice).currency(currency).unit(unit).closePrice(closePrice).build();
 				// log para mostrar los datos del objeto + hora del sistema
 				cRepo.save(copper);
 				// LOG INSERCCION EXITOSA
@@ -610,7 +611,7 @@ public class APIServiceImpl implements APIServiceI {
 			case MetalConstants.PALLADIUM:
 
 				Palladium palladium = Palladium.builder().datetime(datetime).openPrice(openPrice).highPrice(highPrice)
-						.lowPrice(lowPrice).currency(currency).unit(unit).build();
+						.lowPrice(lowPrice).currency(currency).unit(unit).closePrice(closePrice).build();
 				// log para mostrar los datos del objeto + hora del sistema
 				plRepo.save(palladium);
 				// LOG INSERCCION EXITOSA
@@ -619,7 +620,7 @@ public class APIServiceImpl implements APIServiceI {
 			case MetalConstants.PLATINUM:
 
 				Platinum platinum = Platinum.builder().datetime(datetime).openPrice(openPrice).highPrice(highPrice)
-						.lowPrice(lowPrice).currency(currency).unit(unit).build();
+						.lowPrice(lowPrice).currency(currency).unit(unit).closePrice(closePrice).build();
 				// log para mostrar los datos del objeto + hora del sistema
 				ptRepo.save(platinum);
 				// LOG INSERCCION EXITOSA

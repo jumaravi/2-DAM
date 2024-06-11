@@ -93,6 +93,7 @@ public class PlatinumServiceImpl implements PlatinumServiceI {
 					platinumh1.setOpenPrice(platinumDataArray.getOpenPrice());
 					platinumh1.setCurrency(platinumDataArray.getCurrency());
 					platinumh1.setUnit(platinumDataArray.getUnit());
+					platinumh1.setClosePrice(platinumDataArray.getOpenPrice());
 
 					if (platinumh1.getHighPrice() == null) {
 						platinumh1.setHighPrice(platinumDataArray.getHighPrice());
@@ -112,6 +113,8 @@ public class PlatinumServiceImpl implements PlatinumServiceI {
 					// Cambiar el valor de isFirstIteration a falso después de la primera iteración
 					isFirstIteration = false;
 				}
+				
+				platinumh1.setClosePrice(platinumDataArray.getOpenPrice());
 
 				if (platinumDataArray.getHighPrice() > platinumh1.getHighPrice()) {
 					platinumh1.setHighPrice(platinumDataArray.getHighPrice());
@@ -204,7 +207,8 @@ public class PlatinumServiceImpl implements PlatinumServiceI {
 					platinumh4.setOpenPrice(platinumDataArray.getOpenPrice());
 					platinumh4.setCurrency(platinumDataArray.getCurrency());
 					platinumh4.setUnit(platinumDataArray.getUnit());
-
+					platinumh4.setClosePrice(platinumDataArray.getOpenPrice());
+					
 					if (platinumh4.getHighPrice() == null) {
 						platinumh4.setHighPrice(platinumDataArray.getHighPrice());
 					}
@@ -224,6 +228,8 @@ public class PlatinumServiceImpl implements PlatinumServiceI {
 					isFirstIteration = false;
 				}
 
+				platinumh4.setClosePrice(platinumDataArray.getOpenPrice());
+				
 				if (platinumDataArray.getHighPrice() > platinumh4.getHighPrice()) {
 					platinumh4.setHighPrice(platinumDataArray.getHighPrice());
 				}
@@ -313,7 +319,8 @@ public class PlatinumServiceImpl implements PlatinumServiceI {
 					platinumD.setOpenPrice(platinumDataArray.getOpenPrice());
 					platinumD.setCurrency(platinumDataArray.getCurrency());
 					platinumD.setUnit(platinumDataArray.getUnit());
-
+					platinumD.setClosePrice(platinumDataArray.getOpenPrice());
+					
 					if (platinumD.getHighPrice() == null) {
 						platinumD.setHighPrice(platinumDataArray.getHighPrice());
 					}
@@ -333,6 +340,8 @@ public class PlatinumServiceImpl implements PlatinumServiceI {
 					isFirstIteration = false;
 				}
 
+				platinumD.setClosePrice(platinumDataArray.getOpenPrice());
+				
 				if (platinumDataArray.getHighPrice() > platinumD.getHighPrice()) {
 					platinumD.setHighPrice(platinumDataArray.getHighPrice());
 				}
@@ -431,7 +440,8 @@ public class PlatinumServiceImpl implements PlatinumServiceI {
 					platinumS.setOpenPrice(platinumDataArray.getOpenPrice());
 					platinumS.setCurrency(platinumDataArray.getCurrency());
 					platinumS.setUnit(platinumDataArray.getUnit());
-
+					platinumS.setClosePrice(platinumDataArray.getOpenPrice());
+					
 					if (platinumS.getHighPrice() == null) {
 						platinumS.setHighPrice(platinumDataArray.getHighPrice());
 					}
@@ -451,6 +461,8 @@ public class PlatinumServiceImpl implements PlatinumServiceI {
 					isFirstIteration = false;
 				}
 
+				platinumS.setClosePrice(platinumDataArray.getOpenPrice());
+				
 				if (platinumDataArray.getHighPrice() > platinumS.getHighPrice()) {
 					platinumS.setHighPrice(platinumDataArray.getHighPrice());
 				}

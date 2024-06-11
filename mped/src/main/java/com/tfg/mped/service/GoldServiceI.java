@@ -25,13 +25,4 @@ public interface GoldServiceI {
 
 	public List<Gold> loadTimeSerieS(final String currency);
 	
-	/**
-	 * Extracción de datos historicos en funcion de la temporalidad
-	 * 
-	 * @param currency
-	 * @return List<Gold>
-	 */
-	public List<Gold> loadHistoricalTimeSerieD(final String currency);
-
-	public List<Gold> loadHistoricalTimeSerieS(final String currency);
 }

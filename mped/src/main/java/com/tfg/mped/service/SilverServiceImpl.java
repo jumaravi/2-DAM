@@ -90,7 +90,8 @@ public class SilverServiceImpl implements SilverServiceI {
 					silverh1.setOpenPrice(silverDataArray.getOpenPrice());
 					silverh1.setCurrency(silverDataArray.getCurrency());
 					silverh1.setUnit(silverDataArray.getUnit());
-
+					silverh1.setClosePrice(silverDataArray.getOpenPrice());
+					
 					if (silverh1.getHighPrice() == null) {
 						silverh1.setHighPrice(silverDataArray.getHighPrice());
 					}
@@ -109,6 +110,8 @@ public class SilverServiceImpl implements SilverServiceI {
 					// Cambiar el valor de isFirstIteration a falso después de la primera iteración
 					isFirstIteration = false;
 				}
+				
+				silverh1.setClosePrice(silverDataArray.getOpenPrice());
 
 				if (silverDataArray.getHighPrice() > silverh1.getHighPrice()) {
 					silverh1.setHighPrice(silverDataArray.getHighPrice());
@@ -201,7 +204,8 @@ public class SilverServiceImpl implements SilverServiceI {
 					silverh4.setOpenPrice(silverDataArray.getOpenPrice());
 					silverh4.setCurrency(silverDataArray.getCurrency());
 					silverh4.setUnit(silverDataArray.getUnit());
-
+					silverh4.setClosePrice(silverDataArray.getOpenPrice());
+					
 					if (silverh4.getHighPrice() == null) {
 						silverh4.setHighPrice(silverDataArray.getHighPrice());
 					}
@@ -221,6 +225,8 @@ public class SilverServiceImpl implements SilverServiceI {
 					isFirstIteration = false;
 				}
 
+				silverh4.setClosePrice(silverDataArray.getOpenPrice());
+				
 				if (silverDataArray.getHighPrice() > silverh4.getHighPrice()) {
 					silverh4.setHighPrice(silverDataArray.getHighPrice());
 				}
@@ -310,7 +316,8 @@ public class SilverServiceImpl implements SilverServiceI {
 					silverD.setOpenPrice(silverDataArray.getOpenPrice());
 					silverD.setCurrency(silverDataArray.getCurrency());
 					silverD.setUnit(silverDataArray.getUnit());
-
+					silverD.setClosePrice(silverDataArray.getOpenPrice());
+					
 					if (silverD.getHighPrice() == null) {
 						silverD.setHighPrice(silverDataArray.getHighPrice());
 					}
@@ -330,6 +337,8 @@ public class SilverServiceImpl implements SilverServiceI {
 					isFirstIteration = false;
 				}
 
+				silverD.setClosePrice(silverDataArray.getOpenPrice());
+				
 				if (silverDataArray.getHighPrice() > silverD.getHighPrice()) {
 					silverD.setHighPrice(silverDataArray.getHighPrice());
 				}
@@ -428,6 +437,7 @@ public class SilverServiceImpl implements SilverServiceI {
 					silverS.setOpenPrice(silverDataArray.getOpenPrice());
 					silverS.setCurrency(silverDataArray.getCurrency());
 					silverS.setUnit(silverDataArray.getUnit());
+					silverS.setClosePrice(silverDataArray.getOpenPrice());
 
 					if (silverS.getHighPrice() == null) {
 						silverS.setHighPrice(silverDataArray.getHighPrice());
@@ -448,6 +458,9 @@ public class SilverServiceImpl implements SilverServiceI {
 					isFirstIteration = false;
 				}
 
+				silverS.setClosePrice(silverDataArray.getOpenPrice());
+
+				
 				if (silverDataArray.getHighPrice() > silverS.getHighPrice()) {
 					silverS.setHighPrice(silverDataArray.getHighPrice());
 				}

@@ -20,7 +20,7 @@ public interface APIServiceI {
 	 * @param unit
 	 */
 	void addPriceQuote(final String datetime, final String currency, final String unit, final String metal,
-			final Double openPrice, final Double highPrice, final Double lowPrice);
+			final Double openPrice, final Double highPrice, final Double lowPrice, final Double closePrice);
 
 	/**
 	 * Cotización del oro en dolar americano
