@@ -24,8 +24,8 @@ calculateTimeLeft <- function() {
 }
 
 # Temporizador reactivo para actualizar cada 10 minutos en los minutos 00, 10, 20, 30, 40, 50
-#autoUpdate <- reactiveTimer(calculateTimeLeft() * 1000)
-autoUpdate <- reactiveTimer(10000)
+autoUpdate <- reactiveTimer(calculateTimeLeft() * 1000)
+
 
 # Define UI for application
 ui <- fluidPage(
