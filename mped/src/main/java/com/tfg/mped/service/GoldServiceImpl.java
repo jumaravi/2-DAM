@@ -1,5 +1,7 @@
 package com.tfg.mped.service;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.time.DayOfWeek;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -7,7 +9,11 @@ import java.time.temporal.TemporalAdjusters;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
+import java.util.Date;
 import java.util.List;
+import java.util.Locale;
+import java.util.TimeZone;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import com.tfg.mped.persistence.Gold;
@@ -301,7 +307,22 @@ public class GoldServiceImpl implements GoldServiceI {
 				// Realizar acciones específicas solo durante la primera iteración
 				if (isFirstIteration) {
 
-					// adjudicación de hora y precio apertura
+//					String defaultDate = goldDataArray.getDatetime();
+//					SimpleDateFormat defaultFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss.SSS'Z'", Locale.US);
+//					defaultFormat.setTimeZone(TimeZone.getTimeZone("UTC"));
+//
+//					// Convertir la fecha al formato deseado
+//					SimpleDateFormat okFormat = new SimpleDateFormat("dd.MM.yyyy", Locale.US);
+//					try {
+//					    Date date = defaultFormat.parse(defaultDate);
+//					    String newDate = okFormat.format(date);
+//					    goldD.setDatetime(newDate);
+//					} catch (ParseException e) {
+//					    // Manejar la excepción, por ejemplo, imprimir un mensaje de error
+//					    System.out.println("Error al parsear la fecha: " + e.getMessage());
+//					}
+					
+					// adjudicación precio apertura
 					goldD.setDatetime(goldDataArray.getDatetime());
 					goldD.setOpenPrice(goldDataArray.getOpenPrice());
 					goldD.setCurrency(goldDataArray.getCurrency());
