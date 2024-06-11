@@ -1,0 +1,2345 @@
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.06.2024',9750.5,9852,9887,9748.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.06.2024',10110,9762.5,10106,9890,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.05.2024',10460,10040,10459,10110,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.05.2024',10935,10324,10925,10367,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.05.2024',10120,10668,10485,10120,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.05.2024',9990,10004,10065,9857,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.04.2024',10040,9910,10070.5,9783,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.04.2024',9905,9965.5,9990,9700,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.04.2024',9513,9876,9834,9490,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.04.2024',9419,9457.5,9530,9375,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '31.03.2024',9020,9329.5,9365,9018,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.03.2024',8855,8867,8879,8797,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.03.2024',9090,8866.5,9082.5,8855,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.03.2024',8620,9072,9012,8620,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.03.2024',8535,8579.5,8648,8520,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.02.2024',8480,8503.5,8493,8439.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.02.2024',8450,8567.5,8573,8445,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.02.2024',8195,8489,8405,8191,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.02.2024',8435,8169,8433,8199,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.01.2024',8530,8482,8620,8510,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.01.2024',8340,8545.5,8580,8340,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.01.2024',8340,8351,8372,8280,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.01.2024',8400,8339,8429,8388,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '31.12.2023',8540,8463,8539,8450,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.12.2023',8620,8559,8629,8580,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.12.2023',8522,8573.5,8593,8516,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.12.2023',8370,8549,8562.5,8300,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.12.2023',8495,8448.5,8485,8305,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.11.2023',8390,8610.5,8532,8381,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.11.2023',8355,8428.5,8421,8345,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.11.2023',8105,8267,8265,8095,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.11.2023',8225,8035.5,8218,8086,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '29.10.2023',8190,8175.5,8185,8120,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '22.10.2023',7900,8099,8039,7898,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '15.10.2023',8000,7948.5,8020,7920,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '08.10.2023',8095,7949,8085,7980,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '01.10.2023',8190,8046,8185,7888,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.09.2023',8180,8270.5,8281,8073,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.09.2023',8395,8222,8383,8170,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.09.2023',8370,8405.5,8465,8360,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.09.2023',8435,8242.5,8429,8242,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '27.08.2023',8400,8500.5,8534,8380.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '20.08.2023',8275,8355.5,8415,8274,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '13.08.2023',8300,8240.5,8295,8182,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '06.08.2023',8560,8294.5,8540,8276,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '30.07.2023',8685,8573,8765,8505,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '23.07.2023',8470,8662.5,8626,8468,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '16.07.2023',8470,8452,8568,8384,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.07.2023',8300,8673.5,8665.5,8297,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.07.2023',8355,8370.5,8355.5,8270,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.06.2023',8422,8315.5,8420,8174,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.06.2023',8565,8390.5,8668,8478,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.06.2023',8330,8566.5,8573,8320,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.06.2023',8265,8371.5,8391,8263,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.05.2023',8150,8237,8340,8047.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.05.2023',8157,8135,8151,7960,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.05.2023',8330,8251.5,8333,8127,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.05.2023',8607,8253,8605,8260,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '30.04.2023',8600,8581.5,8592.5,8509,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '23.04.2023',8780,8595.5,8780,8488,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '16.04.2023',8995,8794.5,8982,8825,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.04.2023',8842,9023.5,9090,8808.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.04.2023',8975,8800,8968,8785,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.03.2023',8900,8993,9044,8894.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.03.2023',8675,8921.5,8930,8671,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.03.2023',8680,8580,8905,8537,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.03.2023',8845,8867,8853,8771,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.02.2023',8772,8983.5,9090,8767,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.02.2023',9050,8716.5,9131,8826.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.02.2023',8955,8987.5,8957.5,8862,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.02.2023',8930,8857.5,9032.5,8890,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '29.01.2023',9258,8980.5,9257,9075,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '22.01.2023',9360,9263.5,9362,9289,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '15.01.2023',9175,9324,9430,9124,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '08.01.2023',8752,9185.5,9129,8745,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '01.01.2023',8408,8589.5,8437,8235,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.12.2022',8475,8372,8470,8400,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.12.2022',8375,8349.5,8375,8326,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.12.2022',8430,8266.5,8455,8276,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.12.2022',8480,8543,8545,8375,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '27.11.2022',7985,8450,8362,7985,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '20.11.2022',7955,8008,8100,7940,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '13.11.2022',8375,8076,8377,8086,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '06.11.2022',7950,8492.5,8435,7935.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '30.10.2022',7442,8099,7880,7442,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '23.10.2022',7580,7550,7705,7450,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '16.10.2022',7595,7624,7615,7370,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.10.2022',7600,7538.5,7589.5,7525,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.10.2022',7420,7457.5,7705,7410,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.09.2022',7365,7560,7555,7291,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.09.2022',7710,7433,7750,7410,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.09.2022',7950,7762,8090,7660,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.09.2022',7615,7856.5,7930,7605,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.08.2022',7880,7633,7875,7515,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.08.2022',7991,8160.5,8280,7991,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.08.2022',7900,8078.5,8035,7870,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.08.2022',7860,8091.5,8145,7855,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '31.07.2022',7945,7870.5,7939.5,7653,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.07.2022',7475,7917.5,7790,7467,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.07.2022',7350,7452.5,7404,7255,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.07.2022',7645,7190.5,7640,7005,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.07.2022',8045,7805.5,8045,7540,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.06.2022',8365,8048,8500,7982,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.06.2022',8880,8381,9000,8290,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.06.2022',9300,8961.5,9283,9100,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.06.2022',9728,9447.5,9715,9540.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '29.05.2022',9530,9499.5,9530,9455,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '22.05.2022',9495,9459,9480,9315,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '15.05.2022',9235,9422,9460,9227,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '08.05.2022',9155,9159,9358,8995,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '01.05.2022',9525,9414.5,9540,9425,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.04.2022',9920,9769.5,9918,9805,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.04.2022',10415,10110,10390.5,10234,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.04.2022',10270,10315,10320,10226,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.04.2022',10330,10323.5,10461,10301,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '27.03.2022',10235,10353.5,10390,10230,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '20.03.2022',10191,10267,10435,10191,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '13.03.2022',9925,10331,10235,9855,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '06.03.2022',10740,10183.5,10719.5,10070,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '27.02.2022',9930,10674,10435,9930,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '20.02.2022',9910,9873,9949,9860,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '13.02.2022',9840,9956,10009,9840,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '06.02.2022',9820,9860.5,10180,9718,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '30.01.2022',9560,9841.5,9845,9539,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '23.01.2022',9775,9507.5,9925.5,9622,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '16.01.2022',9665,9941,9921,9660,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.01.2022',9650,9719.5,9960,9631,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.01.2022',9633,9647,9755,9560,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.12.2021',9630,9720.5,9681,9620.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.12.2021',9395,9568,9610,9390,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.12.2021',9505.5,9437.5,9530,9280,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.12.2021',9480,9506.5,9602,9480,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.11.2021',9610,9418,9609,9421,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.11.2021',9625,9460,9890,9520,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.11.2021',9740,9646.5,9730,9410,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.11.2021',9540,9711,9655,9540,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '31.10.2021',9505,9518,9585,9430,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.10.2021',9820,9496,9805,9605,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.10.2021',10280,9704,10270,9870,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.10.2021',9490,10281,10180,9470,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.10.2021',9270,9361,9265,9082.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.09.2021',9335,9128,9328,9021,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.09.2021',9132,9332.5,9270.5,9100,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.09.2021',9660,9312,9639.5,9416.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.09.2021',9415,9694.5,9535,9275,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '29.08.2021',9504,9431,9546.25,9276.25,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '22.08.2021',9069.25,9410,9456.75,9057.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '15.08.2021',9493,9037,9552.5,8738.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '08.08.2021',9400.25,9570,9619.25,9274,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '01.08.2021',9712.5,9468,9803.75,9411.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.07.2021',9653.5,9728,9921.25,9561.25,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.07.2021',9402.75,9516,9628,9131.75,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.07.2021',9497,9427,9541.75,9311.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.07.2021',9379.75,9519.5,9632.5,9269.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '27.06.2021',9414.75,9376.5,9494.75,9237.25,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '20.06.2021',9135,9413.5,9515.75,9013.25,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '13.06.2021',10040.75,9145.5,10052.25,9111.25,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '06.06.2021',9968.25,10003.5,10118.75,9787.25,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '30.05.2021',10310.75,9955,10363,9763.75,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '23.05.2021',9856,10258,10341.5,9851.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '16.05.2021',10273,9881.5,10523.75,9848,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.05.2021',10482.25,10240.5,10746,10147,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.05.2021',9923.75,10417,10439.5,9878.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.04.2021',9550.5,9825,10007,9544.25,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.04.2021',9164,9551.5,9557.5,9151,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.04.2021',8936.75,9211,9352.25,8800.25,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.04.2021',8931,8926.5,9104.25,8891.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.03.2021',8977.25,8790,8987.5,8696,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.03.2021',9014,8962,9144.5,8701.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.03.2021',9164,9057,9198.5,8843,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.03.2021',9120,9085,9139.75,8754.25,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.02.2021',9128.25,8895.5,9286.25,8655.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.02.2021',9028.25,9077,9615.5,8961,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.02.2021',8356,8909.5,8994.5,8336.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.02.2021',7992.5,8332,8349.75,7967,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '31.01.2021',7799,7912.5,7988.5,7713,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.01.2021',8003.75,7856,8029.25,7705.75,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.01.2021',7911,7997.5,8093.75,7865.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.01.2021',8074,7949,8115.25,7838.25,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.01.2021',7787,8131,8237.5,7787,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '27.12.2020',7886.5,7766,7917,7733.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '20.12.2020',7979.5,7787.5,7989,7674,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '13.12.2020',7782.5,7985,8027,7717.75,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '06.12.2020',7766,7772.5,7971,7635.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '29.11.2020',7518.5,7760.5,7773.5,7514.75,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '22.11.2020',7272.5,7499.5,7519.5,7158.75,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '15.11.2020',7029.5,7277.5,7291.25,7012,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '08.11.2020',6966.5,6982.5,7053.25,6832.75,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '01.11.2020',6696.25,6946.5,6976.75,6670.75,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.10.2020',6863,6718.5,6872.25,6694.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.10.2020',6725.5,6867.5,7033.75,6724.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.10.2020',6743.5,6740,6792,6657.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.10.2020',6562,6763,6780.5,6455.75,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '27.09.2020',6576.5,6553,6710.75,6270.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '20.09.2020',6843,6545,6878,6449.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '13.09.2020',6740.5,6812.5,6874.5,6676.75,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '06.09.2020',6795.5,6739,6822.25,6589.75,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '30.08.2020',6728.5,6710,6830,6548.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '23.08.2020',6502,6667,6709,6491.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '16.08.2020',6364.5,6490,6706.5,6344.25,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.08.2020',6240.25,6366.5,6449.75,6235.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.08.2020',6351.5,6308,6537.75,6227.25,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.07.2020',6411.75,6413,6519.75,6375.25,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.07.2020',6444.25,6415,6601.25,6366.25,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.07.2020',6455.5,6448,6632.25,6306.75,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.07.2020',6042.75,6412,6428.75,6031,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.06.2020',5931.5,6017,6119.75,5924.75,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.06.2020',5812,5957,6005.75,5811,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.06.2020',5775,5849.5,5898.75,5666.75,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.06.2020',5659.5,5784.5,5928,5618.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '31.05.2020',5399.5,5690,5697.5,5385.25,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.05.2020',5341.5,5376.5,5404.75,5247.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.05.2020',5203.25,5288.5,5462.5,5203.25,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.05.2020',5309,5181.5,5370.5,5147.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.05.2020',5083.5,5274,5294.25,5060.25,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.04.2020',5202,5110,5294.25,5077.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.04.2020',5197.5,5139.5,5246.75,4954,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.04.2020',5141,5211,5238.25,5070.75,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.04.2020',4845.5,5019.5,5111.75,4839.25,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '29.03.2020',4766,4839.5,4970,4741,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '22.03.2020',4641.5,4790.5,4928.5,4462.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '15.03.2020',5230,4810,5290,4690,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '08.03.2020',5495,5460,5608,5400,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '01.03.2020',5657,5607,5716,5607,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '23.02.2020',5690,5635,5708,5542,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '16.02.2020',5815,5765,5813,5725,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.02.2020',5675,5760,5796.6,5647,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.02.2020',5605,5663,5759,5523,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.01.2020',5815,5567,5810.5,5542,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.01.2020',6275,5926,6270,5925,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.01.2020',6205,6273,6326,6200,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.01.2020',6120,6198,6200,6118.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '29.12.2019',6220,6129.5,6219,6105,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '22.12.2019',6184,6214,6239,6170.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '15.12.2019',6175,6175,6215,6161,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '08.12.2019',6025,6130,6185,6012,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '01.12.2019',5880,5990,5990,5811.9,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.11.2019',5900,5864,5952,5863,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.11.2019',5846.5,5855,5895,5829,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.11.2019',5885,5849,5897,5810,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.11.2019',5875,5924,5978,5873.9,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '27.10.2019',5920,5850,5927,5798,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '20.10.2019',5850,5925,5925,5801,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '13.10.2019',5763,5806,5817.5,5709,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '06.10.2019',5669,5796,5796.5,5668.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '29.09.2019',5770,5643,5767,5601,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '22.09.2019',5735,5767,5792,5723,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '15.09.2019',5915,5798,5912,5780,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '08.09.2019',5799,5974.5,5975,5767,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '01.09.2019',5640,5833,5862,5559.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.08.2019',5672,5676,5738,5672,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.08.2019',5792,5633,5789.5,5630.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.08.2019',5760,5744,5830,5727,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.08.2019',5685,5755,5800,5662,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.07.2019',5972.5,5729.5,6018,5730,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.07.2019',6030,5963,6030,5963,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.07.2019',6005,6065,6077,5934.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.07.2019',5932,5935,5964,5802,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '30.06.2019',6017.5,5902,6013,5870,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '23.06.2019',5920,5993,6045,5920,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '16.06.2019',5795,5971,5987,5790,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.06.2019',5815,5822,5915,5810,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.06.2019',5830,5799,5878,5780,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.05.2019',5985,5830,5975,5810,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.05.2019',6011,5955,6046,5897,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.05.2019',6080,6056,6119,6008,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.05.2019',6177,6126,6187,6093,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.04.2019',6372.5,6236,6435,6166,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.04.2019',6445,6400,6483,6363,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.04.2019',6475,6476,6565,6456,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.04.2019',6465,6484,6514,6408,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '31.03.2019',6505,6401,6500.5,6401,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.03.2019',6322.5,6482.5,6485,6314,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.03.2019',6465,6312,6500.5,6310,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.03.2019',6405,6431,6485,6390.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.03.2019',6394.5,6395,6487,6368,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.02.2019',6505,6478,6524,6465,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.02.2019',6245,6478,6478,6236,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.02.2019',6170,6188,6191,6100,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.02.2019',6110,6210,6279,6105,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '27.01.2019',6030,6139,6192,6002.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '20.01.2019',5995,6056,6057,5916,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '13.01.2019',5895,6052,6052,5893,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '06.01.2019',5915,5942,5980,5896,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '30.12.2018',5990,5918,5980.5,5736,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '23.12.2018',5956.5,5997,6025,5955.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '16.12.2018',6110,5991,6123,5970,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.12.2018',6111.5,6131.5,6184,6089,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.12.2018',6300,6145,6295,6070,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.11.2018',6221,6198,6240,6121,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.11.2018',6245,6207,6264,6184,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.11.2018',6075,6205,6210,6044,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.11.2018',6230,6056,6225.5,6056,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.10.2018',6235,6283,6285,5990,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.10.2018',6290,6160,6275,6130,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.10.2018',6285,6220,6310,6141,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.10.2018',6165,6302,6306,6140.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '30.09.2018',6180,6173,6341,6162.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '23.09.2018',6330,6258,6353,6174,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '16.09.2018',5883,6363,6362.5,5881,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.09.2018',5877,5973,6037,5844,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.09.2018',5975,5933,5978,5816,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.08.2018',6135,5975,6152,5975.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.08.2018',6007.5,6105,6105,5940,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.08.2018',6106,5926,6156,5801,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.08.2018',6085,6190,6270,6075,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '29.07.2018',6212,6206,6300,6091,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '22.07.2018',6185,6297,6312,6130.5,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '15.07.2018',6180,6147.5,6192,6006,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '08.07.2018',6385,6237,6393,6095,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '01.07.2018',6590,6282,6589.5,6280,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.06.2018',6795,6626,6785,6621,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.06.2018',6995,6789,6986,6773,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.06.2018',7225,7020,7260,7020,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.06.2018',6949,7312,7340,6940,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '27.05.2018',6870,6896,6897,6815,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '20.05.2018',6910,6885,6979,6829,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '13.05.2018',6862,6855,6900,6795,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '06.05.2018',6760,6942,6942,6745,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '29.04.2018',6830,6826,6873,6718,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '22.04.2018',6975,6797,7030,6797,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '15.04.2018',6855,6992,7022,6832,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '08.04.2018',6825,6830,6967,6788,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '01.04.2018',6795,6769,6817,6661,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.03.2018',6555,6714,6735,6550,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.03.2018',6825,6660,6854,6646,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.03.2018',6905,6888,7050,6876,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.03.2018',6886,6962,7005,6838,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.02.2018',7145,6898,7141.5,6890,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.02.2018',7140,7095,7162,7045,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.02.2018',6835,7233,7233,6831,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.02.2018',7095,6755,7183,6755,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.01.2018',7115,7045,7139.5,7041,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.01.2018',7095,7085,7150,6923,'copper','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.01.2018',7216,7041,7217,7035,'copper','S'
+);

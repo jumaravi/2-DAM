@@ -1,0 +1,2366 @@
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.06.2024',29.267,29.573,29.933,29.105,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.06.2024',30.625,29.44,31.67,29.22,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.05.2024',30.41,30.44,32.31,30.345,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.05.2024',31.645,30.346,32.57,30.1,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.05.2024',28.275,31.118,31.655,28.09,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.05.2024',26.675,28.374,28.86,26.675,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.04.2024',27.5,26.69,27.735,26.255,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.04.2024',28.78,27.402,28.82,26.855,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.04.2024',28.38,28.998,29.24,27.81,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.04.2024',27.435,28.48,29.995,27.145,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '31.03.2024',25.14,27.503,27.615,24.855,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.03.2024',24.73,24.916,25.13,24.425,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.03.2024',25.275,24.717,25.8,24.465,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.03.2024',24.405,25.256,25.515,24.145,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.03.2024',23.37,24.549,24.86,23.23,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.02.2024',23.03,23.364,23.485,22.47,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.02.2024',23.53,23.087,23.53,22.735,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.02.2024',22.995,23.584,23.63,22.12,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.02.2024',22.77,22.706,22.87,22.395,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.01.2024',22.92,22.796,23.445,22.485,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.01.2024',22.75,22.872,23.148,22.043,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.01.2024',23.35,22.711,23.497,22.555,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.01.2024',23.348,23.329,23.72,22.633,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '31.12.2023',24.027,23.315,24.335,22.883,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.12.2023',24.475,24.025,24.738,23.762,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.12.2023',24.125,24.565,24.895,23.955,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.12.2023',23.3,24.154,24.59,22.785,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.12.2023',25.59,22.971,25.935,22.97,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.11.2023',24.375,25.499,25.565,24.32,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.11.2023',23.77,24.341,24.395,23.302,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.11.2023',22.312,23.852,24.22,21.927,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.11.2023',23.335,22.281,23.36,22.23,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '29.10.2023',23.245,23.285,23.75,22.645,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '22.10.2023',23.505,22.887,23.505,22.565,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '15.10.2023',22.91,23.504,23.88,22.535,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '08.10.2023',21.94,22.895,22.99,21.705,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '01.10.2023',22.41,21.723,22.41,20.85,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.09.2023',23.81,22.45,23.925,22.325,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.09.2023',23.32,23.844,24.05,23.06,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.09.2023',23.195,23.386,23.585,22.555,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.09.2023',24.565,23.174,24.655,23.13,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '27.08.2023',24.62,24.562,25.425,24.45,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '20.08.2023',22.795,24.234,24.44,22.71,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '13.08.2023',22.745,22.733,23.067,22.273,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '06.08.2023',23.72,22.743,23.775,22.61,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '30.07.2023',24.488,23.716,24.983,23.275,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '23.07.2023',24.675,24.495,25.16,24.15,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '16.07.2023',25.155,24.855,25.475,24.765,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.07.2023',23.34,25.194,25.255,22.94,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.07.2023',23.003,23.289,23.527,22.727,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.06.2023',22.845,22.81,22.905,22.3,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.06.2023',24.245,22.354,24.26,22.14,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.06.2023',24.375,24.126,24.52,23.27,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.06.2023',23.68,24.41,24.62,23.323,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.05.2023',23.425,23.747,24.12,23.03,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.05.2023',23.995,23.248,24.08,22.705,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.05.2023',24.1,24.06,24.395,23.485,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.05.2023',25.945,24.154,26.2,23.91,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '30.04.2023',25.46,25.93,26.435,24.82,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '23.04.2023',25.28,25.226,25.5,24.65,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '16.04.2023',25.44,25.058,25.71,24.715,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.04.2023',25.073,25.46,26.235,24.79,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.04.2023',24.285,25.093,25.295,23.725,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.03.2023',23.095,23.376,23.28,23.095,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.03.2023',22.63,23.247,23.065,22.205,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.03.2023',20.69,22.351,22.08,20.69,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.03.2023',21.175,20.375,21.22,19.83,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.02.2023',20.75,21.093,21.22,20.475,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.02.2023',21.7,20.81,22,20.725,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.02.2023',22.03,21.715,22.085,21.155,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.02.2023',22.385,22.075,22.635,21.83,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '29.01.2023',23.675,22.405,24.75,22.325,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '22.01.2023',24.055,23.622,24.415,22.845,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '15.01.2023',24.45,23.935,24.67,23.27,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '08.01.2023',24.025,24.372,24.445,23.34,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '01.01.2023',24.305,23.982,24.775,23.26,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.12.2022',24.05,24.04,24.495,23.645,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.12.2022',23.415,23.92,24.525,23.03,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.12.2022',23.65,23.328,24.39,22.735,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.12.2022',23.29,23.717,23.9,22.19,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '27.11.2022',21.64,23.25,23.475,21.045,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '20.11.2022',21.175,21.609,21.88,20.79,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '13.11.2022',21.77,20.997,22.38,20.785,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '06.11.2022',20.57,21.667,22.16,20.435,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '30.10.2022',19.2,20.784,20.965,18.805,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '23.10.2022',19.395,19.147,19.765,18.74,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '16.10.2022',18.16,19.066,19.405,18.15,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.10.2022',20.185,18.071,20.21,18.01,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.10.2022',18.995,20.255,21.31,18.98,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.09.2022',18.525,19.039,19.3,17.885,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.09.2022',19.555,18.881,19.855,18.77,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.09.2022',18.81,19.341,19.85,18.81,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.09.2022',17.845,18.725,18.73,17.82,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.08.2022',18.75,17.852,18.75,17.645,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.08.2022',19.05,18.792,19.36,18.66,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.08.2022',20.81,19.114,20.81,19.005,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.08.2022',19.825,20.743,20.8,19.825,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '31.07.2022',19.92,19.892,20.15,19.66,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.07.2022',18.54,20.247,19.095,18.195,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.07.2022',18.675,18.617,19.03,18.12,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.07.2022',19.265,18.594,19.36,18.01,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.07.2022',19.88,19.236,20.1,18.705,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.06.2022',21.2,19.667,21.535,19.295,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.06.2022',21.52,21.125,21.95,20.545,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.06.2022',22.01,21.587,22.04,20.845,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.06.2022',21.945,21.931,22.565,21.235,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '29.05.2022',22.15,21.908,22.525,21.41,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '22.05.2022',21.78,22.096,22.475,21.645,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '15.05.2022',21.105,21.674,22.08,20.835,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '08.05.2022',22.395,21.001,22.395,20.42,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '01.05.2022',22.785,22.367,23.345,22.11,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.04.2022',24.215,23.085,24.24,22.71,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.04.2022',25.875,24.259,26.495,24.08,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.04.2022',24.925,25.7,26.115,24.795,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.04.2022',24.735,24.823,25.11,24.2,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '27.03.2022',25.725,24.654,25.795,24.045,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '20.03.2022',25.15,25.615,26.16,24.695,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '13.03.2022',26.28,25.087,26.29,24.55,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '06.03.2022',26.025,26.16,27.495,25.465,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '27.02.2022',24.62,25.789,25.92,24.155,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '20.02.2022',24.06,24.017,25.67,23.71,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '13.02.2022',23.6,23.992,24.115,23.07,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '06.02.2022',22.535,23.369,23.735,22.5,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '30.01.2022',22.475,22.475,23.06,21.985,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '23.01.2022',24.305,22.301,24.36,22.15,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '16.01.2022',22.995,24.32,24.755,22.82,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.01.2022',22.385,22.918,23.345,22.205,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.01.2022',23.385,22.409,23.44,21.945,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.12.2021',22.9,23.352,23.48,22.6,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.12.2021',22.39,22.94,22.965,22.185,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.12.2021',22.195,22.533,22.69,21.41,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.12.2021',22.61,22.195,22.635,21.815,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.11.2021',23.16,22.481,23.46,22.035,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.11.2021',24.67,23.135,24.955,22.935,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.11.2021',25.425,24.781,25.49,24.61,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.11.2021',24.285,25.346,25.47,24.04,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '31.10.2021',23.985,24.157,24.255,23.045,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.10.2021',24.395,23.949,24.695,23.705,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.10.2021',23.38,24.449,24.92,23.035,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.10.2021',22.685,23.349,23.645,22.325,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.10.2021',22.6,22.705,23.22,22.185,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.09.2021',22.395,22.536,22.865,21.41,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.09.2021',22.33,22.425,23.15,22.025,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.09.2021',23.79,22.337,24,22.305,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.09.2021',24.865,23.9,24.895,23.76,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '29.08.2021',24.13,24.802,24.945,23.775,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '22.08.2021',22.985,24.11,24.18,22.925,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '15.08.2021',23.675,23.112,23.955,22.835,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '08.08.2021',24.34,23.779,24.38,22.295,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '01.08.2021',25.625,24.326,26.09,24.205,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.07.2021',25.27,25.547,25.875,24.515,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.07.2021',25.7,25.233,25.805,24.79,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.07.2021',26.185,25.795,26.575,25.64,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.07.2021',26.64,26.234,26.91,25.82,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '27.06.2021',26.19,26.501,26.7,25.58,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '20.06.2021',25.865,26.087,26.38,25.58,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '13.06.2021',28.095,25.969,28.16,25.77,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '06.06.2021',27.91,28.146,28.445,27.475,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '30.05.2021',28.06,27.896,28.71,27.09,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '23.05.2021',27.69,28.014,28.34,27.48,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '16.05.2021',27.515,27.486,28.9,27.265,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.05.2021',27.68,27.365,28.005,26.78,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.05.2021',25.99,27.477,27.8,25.85,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.04.2021',26.045,25.873,26.58,25.745,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.04.2021',26.055,26.075,26.73,25.67,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.04.2021',25.3,26.105,26.38,24.68,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.04.2021',25.05,25.325,25.675,24.66,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.03.2021',25.105,24.948,25.15,23.74,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.03.2021',26.34,25.114,26.35,24.435,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.03.2021',26.07,26.321,26.74,25.805,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.03.2021',25.4,25.911,26.545,24.97,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.02.2021',26.7,25.287,27.175,24.845,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.02.2021',27.555,26.44,28.425,26.16,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.02.2021',27.49,27.254,28.075,26.105,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.02.2021',27.2,27.328,27.875,26.75,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '31.01.2021',28.425,27.019,30.35,25.935,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.01.2021',25.535,26.914,27.77,24.715,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.01.2021',24.835,25.556,26.13,24.04,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.01.2021',25.47,24.866,25.99,24.365,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.01.2021',26.77,24.637,28.105,24.53,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '27.12.2020',26.13,26.412,26.98,26,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '20.12.2020',26.11,25.908,27.635,25.12,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '13.12.2020',24.14,26.033,26.35,23.755,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '06.12.2020',24.31,24.092,25.015,23.63,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '29.11.2020',22.78,24.253,24.585,21.96,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '22.11.2020',24.225,22.639,24.455,22.4,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '15.11.2020',24.8,24.363,25.155,23.67,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '08.11.2020',25.86,24.775,26.135,23.6,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '01.11.2020',23.635,25.662,25.975,23.26,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.10.2020',24.75,23.646,24.765,22.625,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.10.2020',24.29,24.675,25.425,24.215,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.10.2020',25.28,24.405,25.71,23.65,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.10.2020',24.075,25.108,25.33,22.965,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '27.09.2020',22.995,24.029,24.545,22.61,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '20.09.2020',27.005,23.093,27.13,21.81,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '13.09.2020',26.91,27.129,27.865,26.405,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '06.09.2020',27.04,26.857,27.755,25.985,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '30.08.2020',27.83,26.712,29.235,26.455,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '23.08.2020',26.89,27.79,28.035,26.13,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '16.08.2020',26.67,26.732,28.605,25.915,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.08.2020',28.525,26.089,29.53,23.58,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.08.2020',24.68,27.54,29.915,24.16,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.07.2020',22.97,24.216,26.275,22.46,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.07.2020',19.765,22.85,23.67,19.655,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.07.2020',19.08,19.764,19.87,19.08,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.07.2020',18.27,19.053,19.445,18.235,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.07.2020',18.27,19.053,19.445,18.23,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.06.2020',18.11,18.322,18.85,17.935,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.06.2020',17.92,18.168,18.255,17.425,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.06.2020',17.56,17.847,18.03,17.015,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.06.2020',17.545,17.482,18.405,17.47,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '31.05.2020',18.635,17.479,18.95,17.375,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.05.2020',17.69,18.499,18.55,17.225,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.05.2020',17.225,17.693,18.165,17.125,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.05.2020',15.755,17.07,17.15,15.51,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.05.2020',15.075,15.778,15.98,14.76,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.04.2020',15.32,14.938,15.94,14.82,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.04.2020',15.285,15.263,15.72,14.56,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.04.2020',15.875,15.295,16.3,15.195,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.04.2020',14.54,16.053,16.09,14.355,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '29.03.2020',14.7,14.494,14.75,13.895,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '22.03.2020',12.615,14.534,14.98,12.29,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '15.03.2020',15.1,12.385,15.245,11.64,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '08.03.2020',17.49,14.5,17.615,14.425,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '01.03.2020',16.5,17.263,17.575,16.445,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '23.02.2020',18.65,16.457,18.92,16.4,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '16.02.2020',17.725,18.53,18.625,17.67,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.02.2020',17.705,17.734,17.825,17.435,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.02.2020',18.1,17.692,18.125,17.465,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.01.2020',18.26,18.012,18.375,17.28,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.01.2020',18.04,18.113,18.155,17.59,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.01.2020',18.13,18.073,18.185,17.69,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.01.2020',18.17,18.105,18.895,17.815,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '29.12.2019',17.86,18.151,18.325,17.83,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '22.12.2019',17.23,17.943,18.135,17.23,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '15.12.2019',17.005,17.224,17.315,16.935,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '08.12.2019',16.6,17.012,17.185,16.565,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '01.12.2019',17.07,16.596,17.415,16.575,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.11.2019',16.96,17.106,17.125,16.78,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.11.2019',16.95,17,17.21,16.705,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.11.2019',16.755,16.948,17.08,16.615,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.11.2019',18.125,16.823,18.23,16.66,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '27.10.2019',18.065,18.052,18.185,17.59,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '20.10.2019',17.615,17.926,18.35,17.44,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '13.10.2019',17.59,17.578,17.765,17.18,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '06.10.2019',17.665,17.544,18,17.305,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '29.09.2019',17.59,17.625,17.845,16.94,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '22.09.2019',18.03,17.652,18.81,17.345,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '15.09.2019',17.755,17.849,18.17,17.58,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '08.09.2019',18.215,17.569,18.555,17.47,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '01.09.2019',18.52,18.119,19.75,18.045,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.08.2019',17.5,18.342,18.76,17.495,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.08.2019',17.125,17.413,17.465,16.82,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.08.2019',16.965,17.122,17.49,16.51,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.08.2019',16.26,16.931,17.26,16.135,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.07.2019',16.42,16.27,16.64,15.935,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.07.2019',16.255,16.397,16.685,16.195,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.07.2019',15.24,16.195,16.625,15.185,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.07.2019',15.05,15.236,15.345,14.965,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '30.06.2019',15.315,15.001,15.51,14.915,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '23.06.2019',15.355,15.341,15.505,15.16,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '16.06.2019',14.84,15.29,15.555,14.755,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.06.2019',15.005,14.803,15.12,14.625,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.06.2019',14.575,15.031,15.15,14.565,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.05.2019',14.545,14.567,14.67,14.265,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.05.2019',14.415,14.555,14.635,14.35,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.05.2019',14.76,14.388,14.865,14.38,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.05.2019',14.93,14.79,14.99,14.705,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.04.2019',15.075,14.978,15.1,14.57,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.04.2019',14.985,15.088,15.12,14.7,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.04.2019',14.925,14.955,15.055,14.795,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.04.2019',15.11,14.963,15.31,14.845,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '31.03.2019',15.09,15.086,15.19,14.86,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.03.2019',15.41,15.11,15.59,14.95,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.03.2019',15.245,15.407,15.65,15.22,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.03.2019',15.35,15.324,15.55,15.135,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.03.2019',15.27,15.349,15.385,14.985,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.02.2019',15.92,15.256,16.01,15.165,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.02.2019',15.785,15.914,16.195,15.715,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.02.2019',15.69,15.743,15.82,15.445,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.02.2019',15.865,15.809,15.93,15.635,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '27.01.2019',15.785,15.931,16.2,15.61,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '20.01.2019',15.365,15.699,15.765,15.195,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '13.01.2019',15.68,15.399,15.735,15.35,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '06.01.2019',15.825,15.656,15.88,15.56,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '30.12.2018',15.43,15.786,15.91,15.385,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '23.12.2018',14.74,15.436,15.46,14.725,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '16.12.2018',14.635,14.702,14.915,14.615,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.12.2018',14.7,14.637,14.9,14.56,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.12.2018',14.345,14.696,14.745,14.345,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.11.2018',14.29,14.217,14.47,14.05,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.11.2018',14.4,14.243,14.54,14.165,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.11.2018',14.15,14.382,14.4,13.86,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.11.2018',14.74,14.14,14.775,14.08,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.10.2018',14.72,14.756,14.92,14.24,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.10.2018',14.65,14.7,14.84,14.54,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.10.2018',14.625,14.65,14.88,14.47,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.10.2018',14.665,14.635,14.735,14.255,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '30.09.2018',14.725,14.649,14.95,14.395,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '23.09.2018',14.325,14.712,14.755,14.195,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '16.09.2018',14.095,14.359,14.465,14.065,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '09.09.2018',14.16,14.142,14.39,13.965,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '02.09.2018',14.54,14.17,14.55,14.035,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '26.08.2018',14.82,14.557,14.95,14.525,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '19.08.2018',14.725,14.794,14.875,14.45,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '12.08.2018',15.3,14.631,15.345,14.315,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '05.08.2018',15.445,15.295,15.525,15.29,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '29.07.2018',15.46,15.462,15.635,15.25,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '22.07.2018',15.54,15.493,15.7,15.34,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '15.07.2018',15.805,15.549,15.9,15.185,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '08.07.2018',16.065,15.815,16.26,15.7,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '01.07.2018',16.145,16.069,16.19,15.8,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '24.06.2018',16.445,16.198,16.485,15.945,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '17.06.2018',16.55,16.459,16.635,16.19,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '10.06.2018',16.805,16.48,17.35,16.46,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '03.06.2018',16.42,16.741,16.935,16.37,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '27.05.2018',16.48,16.441,16.615,16.31,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '20.05.2018',16.43,16.546,16.74,16.28,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '13.05.2018',16.7,16.455,16.76,16.19,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '06.05.2018',16.55,16.752,16.865,16.335,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '29.04.2018',16.555,16.519,16.62,16.07,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '22.04.2018',17.135,16.497,17.135,16.385,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '15.04.2018',16.655,17.163,17.36,16.545,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '08.04.2018',16.42,16.658,16.89,16.295,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '01.04.2018',16.3,16.362,16.68,16.15,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.03.2018',16.56,16.268,16.81,16.195,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.03.2018',16.305,16.582,16.675,16.1,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.03.2018',16.605,16.272,16.69,16.205,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.03.2018',16.53,16.608,16.895,16.33,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '25.02.2018',16.47,16.466,16.72,16.16,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '18.02.2018',16.6,16.484,16.745,16.34,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '11.02.2018',16.295,16.712,16.95,16.28,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '04.02.2018',16.61,16.139,16.955,16.13,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '28.01.2018',17.42,16.709,17.47,16.52,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '21.01.2018',17.045,17.441,17.705,16.735,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '14.01.2018',17.235,17.036,17.45,16.8,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '07.01.2018',17.27,17.141,17.3,16.88,'silver','S'
+);
+
+/* INSERT QUERY */
+INSERT INTO T_HISTORICALDATA( c_datetime,c_openprice,c_closeprice,c_highprice,c_lowprice,c_metal,c_timeserie )
+VALUES
+(
+    '01.01.2018',17.035,17.285,17.325,16.985,'silver','S'
+);
